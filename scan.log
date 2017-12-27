@@ -1,0 +1,86 @@
+Processing host [ 10.80.49.132 ] ... 
+PING 10.80.49.132 (10.80.49.132) 56(84) bytes of data.
+
+--- 10.80.49.132 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+Processing host [ 10.172.226.84 ] ... 
+PING 10.172.226.84 (10.172.226.84) 56(84) bytes of data.
+64 bytes from 10.172.226.84: icmp_seq=1 ttl=61 time=0.461 ms
+64 bytes from 10.172.226.84: icmp_seq=2 ttl=61 time=0.263 ms
+
+--- 10.172.226.84 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 0.263/0.362/0.461/0.099 ms
+Processing host [ 10.28.206.155 ] ... 
+PING 10.28.206.155 (10.28.206.155) 56(84) bytes of data.
+64 bytes from 10.28.206.155: icmp_seq=1 ttl=56 time=1.15 ms
+64 bytes from 10.28.206.155: icmp_seq=2 ttl=56 time=1.21 ms
+
+--- 10.28.206.155 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 1.155/1.184/1.214/0.045 ms
+Processing host [ 10.28.206.174 ] ... 
+PING 10.28.206.174 (10.28.206.174) 56(84) bytes of data.
+64 bytes from 10.28.206.174: icmp_seq=1 ttl=56 time=1.18 ms
+64 bytes from 10.28.206.174: icmp_seq=2 ttl=56 time=1.19 ms
+
+--- 10.28.206.174 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 1.189/1.193/1.198/0.034 ms
+Processing host [ 10.171.79.186 ] ... 
+PING 10.171.79.186 (10.171.79.186) 56(84) bytes of data.
+
+--- 10.171.79.186 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+Processing host [ 10.171.9.60 ] ... 
+PING 10.171.9.60 (10.171.9.60) 56(84) bytes of data.
+64 bytes from 10.171.9.60: icmp_seq=1 ttl=61 time=0.376 ms
+64 bytes from 10.171.9.60: icmp_seq=2 ttl=61 time=0.348 ms
+
+--- 10.171.9.60 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 0.348/0.362/0.376/0.014 ms
+Processing host [ 10.51.91.94 ] ... 
+PING 10.51.91.94 (10.51.91.94) 56(84) bytes of data.
+64 bytes from 10.51.91.94: icmp_seq=1 ttl=56 time=1.13 ms
+64 bytes from 10.51.91.94: icmp_seq=2 ttl=56 time=1.15 ms
+
+--- 10.51.91.94 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 1.137/1.147/1.157/0.010 ms
+Processing host [ 10.51.115.106 ] ... 
+PING 10.51.115.106 (10.51.115.106) 56(84) bytes of data.
+64 bytes from 10.51.115.106: icmp_seq=1 ttl=56 time=1.26 ms
+64 bytes from 10.51.115.106: icmp_seq=2 ttl=56 time=1.24 ms
+
+--- 10.51.115.106 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 1.248/1.255/1.262/0.007 ms
+Processing host [ 10.51.115.63 ] ... 
+PING 10.51.115.63 (10.51.115.63) 56(84) bytes of data.
+64 bytes from 10.51.115.63: icmp_seq=1 ttl=56 time=1.24 ms
+64 bytes from 10.51.115.63: icmp_seq=2 ttl=56 time=1.20 ms
+
+--- 10.51.115.63 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 1.203/1.225/1.247/0.022 ms
+Processing host [ 10.172.225.164 ] ... 
+PING 10.172.225.164 (10.172.225.164) 56(84) bytes of data.
+
+--- 10.172.225.164 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+Processing host [ 10.51.60.211 ] ... 
+PING 10.51.60.211 (10.51.60.211) 56(84) bytes of data.
+
+--- 10.51.60.211 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+Processing host [ 10.162.199.45 ] ... 
+PING 10.162.199.45 (10.162.199.45) 56(84) bytes of data.
+
+--- 10.162.199.45 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+

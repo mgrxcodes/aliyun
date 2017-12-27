@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]
+    then
+        echo -e "USAGE: $0 [ command ] \n      command: the command running for scanning. \n"
+    exit 0
+fi
+
+for i in `cat /tmp/mgr/online.ip`; do echo "Processing host [ $i ] ... "; $1 $i; done
